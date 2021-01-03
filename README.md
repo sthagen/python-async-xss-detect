@@ -1,4 +1,4 @@
-# python-docker-example
-Experimental example for python application in docker.
+# python-async-xss-detect
+Experimental async XSS detection implementation.
 
 **Note**: The default branch is `default`.
